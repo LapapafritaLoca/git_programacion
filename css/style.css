@@ -1,0 +1,12 @@
+.header {
+    width: 100%;
+    height: 10%;
+    background-color: rgb(255, 0, 166);
+    display: inline-flex;
+}
+.menu{
+    float: right;
+}
+body{
+    display: block;
+}
